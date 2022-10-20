@@ -15,6 +15,14 @@ throughout a season.
 
 Please review the `API Documentation <https://sportsipycs464.readthedocs.io/en/latest/sportsreference.html>`_ where users and contributors can find more information on how the following sports packages for this API work.
 
+* `Football Package <https://sportsipycs464.readthedocs.io/en/latest/fb.html>`_
+* `MLB Package <https://sportsipycs464.readthedocs.io/en/latest/mlb.html>`_
+* `NBA Package <https://sportsipycs464.readthedocs.io/en/latest/nba.html>`_
+* `NCAAB Package <https://sportsipycs464.readthedocs.io/en/latest/ncaab.html>`_
+* `NCAAF Package <https://sportsipycs464.readthedocs.io/en/latest/ncaaf.html>`_
+* `NFL Package <https://sportsipycs464.readthedocs.io/en/latest/nfl.html>`_
+* `NHL Package <https://sportsipycs464.readthedocs.io/en/latest/nhl.html>`_
+
 Examples
 ========
 
@@ -97,7 +105,7 @@ Find the number of goals a football team has scored
     print(tottenham.goals_scored)
 
 .. toctree::
-   :maxdepth: 
+   :maxdepth: 5
    :caption: Table of Contents:
 
    sportsipy

@@ -95,7 +95,7 @@ Find the number of goals a football team has scored
     print(tottenham.goals_scored)
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 12
    :caption: Table of Contents:
 
    sportsipy
@@ -103,11 +103,17 @@ Find the number of goals a football team has scored
    installation
    testing
    FAQ
+   fb
+   mlb
+   nba
+   ncaab
+   ncaaf
+   nfl
+   nhl
 
 Indices and tables
 ==================
 
-* :ref:`sportsreference`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`

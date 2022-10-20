@@ -103,13 +103,7 @@ Find the number of goals a football team has scored
    installation
    testing
    FAQ
-   fb
-   mlb
-   nba
-   ncaab
-   ncaaf
-   nfl
-   nhl
+   sportsreference
 
 Indices and tables
 ==================

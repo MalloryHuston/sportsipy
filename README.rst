@@ -67,7 +67,7 @@ The following are a few examples showcasing how easy it can be to collect
 an abundance of metrics and information from all of the tracked leagues. The
 examples below are only a miniscule subset of the total number of statistics
 that can be pulled using sportsipy. Visit the documentation on
-`Read The Docs <http://sportsipy.readthedocs.io/en/latest/>`_ for a
+`Read the Docs <http://sportsipyCS464.readthedocs.io/en/latest/>`_ for a
 complete list of all information exposed by the API.
 
 Get instances of all NHL teams for the 2018 season
@@ -155,7 +155,7 @@ The second post in particular is a great guide for getting started with
 package.
 
 Complete documentation is hosted on
-`readthedocs.org <http://sportsipy.readthedocs.io/en/latest>`_. Refer to
+`readthedocs.org <http://sportsipyCS464.readthedocs.io/en/latest>`_. Refer to
 the documentation for a full list of all metrics and information exposed by
 sportsipy. The documentation is auto-generated using Sphinx based on the
 docstrings in the sportsipy package.

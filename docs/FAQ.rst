@@ -41,14 +41,23 @@ What do these different labels that are tagged on issues mean?
 
 The code maintains `triage <https://en.wikipedia.org/wiki/Software_bug#Bug_management>`_ issues and pull requests based on their priority, severity, and other factors. You can `find a complete glossary of their meanings here <https://github.com/roclark/sportsipy/labels>`_.
 
-Where do I start if I want to work on an issue?
+Where do I start if I want to work on or submit an issue?
 -----------------------
 
 You should go through ``help wanted`` and ``good first issue`` issues for a 
 quick overview of what is available for you to work on.
 ..
-  ``help wanted`` issues are those where extra attention is needed.
+  [!TIP] ``help wanted`` issues are those where extra attention is needed
+  and no permission is required to work on them.
   However, issues with the ``good first issue`` label are good for
   newcomers who have not contributed to Sportsipy before.
 
 ------
+
+How do I report a security issue? What about all other complaints?
+-----------------------
+Instances of abusive, harassing, security violations or otherwise unacceptable behavior may be reported by contacting the project team at robdclark@outlook.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+
+Additional Assistance
+-----------------------
+If you have queries about the stack, architecture of the codebase, translations, or anything else, feel free to reach out at robdclark@outlook.com.
